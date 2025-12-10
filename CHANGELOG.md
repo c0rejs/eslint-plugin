@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.7.35 (2025-12-10)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [8084a8b](https://github.com/c0rejs/eslint-plugin/commit/8084a8b); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [8e21c8b](https://github.com/c0rejs/eslint-plugin/commit/8e21c8b), [20845e0](https://github.com/c0rejs/eslint-plugin/commit/20845e0), [95b9f55](https://github.com/c0rejs/eslint-plugin/commit/95b9f55); 👬 zdm)
+
+Compare with the previous release: [v1.7.34](https://github.com/c0rejs/eslint-plugin/compare/v1.7.34...v1.7.35)
+
 ### v1.7.34 (2025-07-23)
 
 **Other changes:**
