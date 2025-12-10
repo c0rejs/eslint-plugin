@@ -4,41 +4,41 @@
 
 **Other changes:**
 
-- style: update .npmrc (● [4d41cc5](https://github.com/softvisio-node/eslint-plugin/commit/4d41cc5); 👬 zdm)
+- style: update .npmrc (● [4d41cc5](https://github.com/c0rejs/eslint-plugin/commit/4d41cc5); 👬 zdm)
 
-Compare with the previous release: [v1.7.33](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.33...v1.7.34)
+Compare with the previous release: [v1.7.33](https://github.com/c0rejs/eslint-plugin/compare/v1.7.33...v1.7.34)
 
 ### v1.7.33 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [9d19821](https://github.com/softvisio-node/eslint-plugin/commit/9d19821); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [9d19821](https://github.com/c0rejs/eslint-plugin/commit/9d19821); 👬 zdm)
 
-Compare with the previous release: [v1.7.32](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.32...v1.7.33)
+Compare with the previous release: [v1.7.32](https://github.com/c0rejs/eslint-plugin/compare/v1.7.32...v1.7.33)
 
 ### v1.7.32 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [c3d6564](https://github.com/softvisio-node/eslint-plugin/commit/c3d6564); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [c3d6564](https://github.com/c0rejs/eslint-plugin/commit/c3d6564); 👬 zdm)
 
-Compare with the previous release: [v1.7.31](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.31...v1.7.32)
+Compare with the previous release: [v1.7.31](https://github.com/c0rejs/eslint-plugin/compare/v1.7.31...v1.7.32)
 
 ### v1.7.31 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [8c7ba74](https://github.com/softvisio-node/eslint-plugin/commit/8c7ba74); 👬 zdm)
+- docs: update (● [8c7ba74](https://github.com/c0rejs/eslint-plugin/commit/8c7ba74); 👬 zdm)
 
-Compare with the previous release: [v1.7.30](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.30...v1.7.31)
+Compare with the previous release: [v1.7.30](https://github.com/c0rejs/eslint-plugin/compare/v1.7.30...v1.7.31)
 
 ### v1.7.30 (2025-06-23)
 
 **Other changes:**
 
-- style: lint (● [ca48739](https://github.com/softvisio-node/eslint-plugin/commit/ca48739); 👬 zdm)
+- style: lint (● [ca48739](https://github.com/c0rejs/eslint-plugin/commit/ca48739); 👬 zdm)
 
-Compare with the previous release: [v1.7.29](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.29...v1.7.30)
+Compare with the previous release: [v1.7.29](https://github.com/c0rejs/eslint-plugin/compare/v1.7.29...v1.7.30)
 
 ### v1.7.29 (2025-06-07)
 
@@ -46,7 +46,7 @@ Compare with the previous release: [v1.7.29](https://github.com/softvisio-node/e
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v1.7.28](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.28...v1.7.29)
+Compare with the previous release: [v1.7.28](https://github.com/c0rejs/eslint-plugin/compare/v1.7.28...v1.7.29)
 
 ### v1.7.28 (2025-06-01)
 
@@ -54,7 +54,7 @@ Compare with the previous release: [v1.7.28](https://github.com/softvisio-node/e
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v1.7.27](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.27...v1.7.28)
+Compare with the previous release: [v1.7.27](https://github.com/c0rejs/eslint-plugin/compare/v1.7.27...v1.7.28)
 
 ### 1.7.27 (2025-04-27)
 
@@ -62,7 +62,7 @@ Other changes:
 
 - chore: update eslint camel-case rule
 
-Compare with the previous release: [`v1.7.26...v1.7.27`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.26...v1.7.27)
+Compare with the previous release: [`v1.7.26...v1.7.27`](https://github.com/c0rejs/eslint-plugin/compare/v1.7.26...v1.7.27)
 
 ### 1.7.26 (2025-03-26)
 
@@ -70,7 +70,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v1.7.25...v1.7.26`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.25...v1.7.26)
+Compare with the previous release: [`v1.7.25...v1.7.26`](https://github.com/c0rejs/eslint-plugin/compare/v1.7.25...v1.7.26)
 
 ### 1.7.25 (2025-03-04)
 
@@ -78,7 +78,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.7.24...v1.7.25`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.24...v1.7.25)
+Compare with the previous release: [`v1.7.24...v1.7.25`](https://github.com/c0rejs/eslint-plugin/compare/v1.7.24...v1.7.25)
 
 ### 1.7.24 (2025-03-04)
 
@@ -86,7 +86,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.7.23...v1.7.24`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.23...v1.7.24)
+Compare with the previous release: [`v1.7.23...v1.7.24`](https://github.com/c0rejs/eslint-plugin/compare/v1.7.23...v1.7.24)
 
 ### 1.7.23 (2025-02-27)
 
@@ -94,7 +94,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v1.7.22...v1.7.23`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.22...v1.7.23)
+Compare with the previous release: [`v1.7.22...v1.7.23`](https://github.com/c0rejs/eslint-plugin/compare/v1.7.22...v1.7.23)
 
 ### 1.7.22 (2025-02-26)
 
@@ -102,7 +102,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v1.7.21...v1.7.22`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.21...v1.7.22)
+Compare with the previous release: [`v1.7.21...v1.7.22`](https://github.com/c0rejs/eslint-plugin/compare/v1.7.21...v1.7.22)
 
 ### 1.7.21 (2025-02-24)
 
@@ -110,7 +110,7 @@ Other changes:
 
 - chore: cleanup code
 
-Compare with the previous release: [`v1.7.20...v1.7.21`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.20...v1.7.21)
+Compare with the previous release: [`v1.7.20...v1.7.21`](https://github.com/c0rejs/eslint-plugin/compare/v1.7.20...v1.7.21)
 
 ### 1.7.20 (2025-02-19)
 
@@ -118,7 +118,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v1.7.19...v1.7.20`](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.19...v1.7.20)
+Compare with the previous release: [`v1.7.19...v1.7.20`](https://github.com/c0rejs/eslint-plugin/compare/v1.7.19...v1.7.20)
 
 ### 1.7.19 (2025-01-08)
 
@@ -127,7 +127,7 @@ Other changes:
 - chore: release v1.7.19
 - chore: update package metadata
 
-[Compare with the previous release: v1.7.18 ... v1.7.19](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.18...v1.7.19)
+[Compare with the previous release: v1.7.18 ... v1.7.19](https://github.com/c0rejs/eslint-plugin/compare/v1.7.18...v1.7.19)
 
 ### 1.7.19 (2025-01-08)
 
@@ -135,7 +135,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.7.18 ... v1.7.19](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.18...v1.7.19)
+[Compare with the previous release: v1.7.18 ... v1.7.19](https://github.com/c0rejs/eslint-plugin/compare/v1.7.18...v1.7.19)
 
 ### 1.7.18 (2024-12-07)
 
@@ -143,7 +143,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v1.7.17 ... v1.7.18](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.17...v1.7.18)
+[Compare with the previous release: v1.7.17 ... v1.7.18](https://github.com/c0rejs/eslint-plugin/compare/v1.7.17...v1.7.18)
 
 ### 1.7.17 (2024-11-27)
 
@@ -151,7 +151,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.7.16 ... v1.7.17](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.16...v1.7.17)
+[Compare with the previous release: v1.7.16 ... v1.7.17](https://github.com/c0rejs/eslint-plugin/compare/v1.7.16...v1.7.17)
 
 ### 1.7.16 (2024-11-27)
 
@@ -159,13 +159,13 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.7.15 ... v1.7.16](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.15...v1.7.16)
+[Compare with the previous release: v1.7.15 ... v1.7.16](https://github.com/c0rejs/eslint-plugin/compare/v1.7.15...v1.7.16)
 
 ### 1.7.15 (2024-11-07)
 
 No changes since the previous release.
 
-[Compare with the previous release: v1.7.14 ... v1.7.15](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.14...v1.7.15)
+[Compare with the previous release: v1.7.14 ... v1.7.15](https://github.com/c0rejs/eslint-plugin/compare/v1.7.14...v1.7.15)
 
 ### 1.7.14 (2024-11-07)
 
@@ -173,7 +173,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.7.13 ... v1.7.14](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.13...v1.7.14)
+[Compare with the previous release: v1.7.13 ... v1.7.14](https://github.com/c0rejs/eslint-plugin/compare/v1.7.13...v1.7.14)
 
 ### 1.7.13 (2024-10-29)
 
@@ -181,43 +181,43 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v1.7.12 ... v1.7.13](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.12...v1.7.13)
+[Compare with the previous release: v1.7.12 ... v1.7.13](https://github.com/c0rejs/eslint-plugin/compare/v1.7.12...v1.7.13)
 
 ### 1.7.12 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.11...v1.7.12)
+[Full list of the changes](https://github.com/c0rejs/eslint-plugin/compare/v1.7.11...v1.7.12)
 
 ### 1.7.11 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.10...v1.7.11)
+[Full list of the changes](https://github.com/c0rejs/eslint-plugin/compare/v1.7.10...v1.7.11)
 
 ### 1.7.10 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.9...v1.7.10)
+[Full list of the changes](https://github.com/c0rejs/eslint-plugin/compare/v1.7.9...v1.7.10)
 
 ### 1.7.9 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.8...v1.7.9)
+[Full list of the changes](https://github.com/c0rejs/eslint-plugin/compare/v1.7.8...v1.7.9)
 
 ### 1.7.8 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Compare changes](https://github.com/softvisio-node/eslint-plugin/compare/v1.7.7...v1.7.8)
+[Compare changes](https://github.com/c0rejs/eslint-plugin/compare/v1.7.7...v1.7.8)
 
 ### 1.7.7 (2024-10-10)
 
 No notable changes since the previous release.
 
-[Compare changes](https://github.com/softvisio-node/eslint-plugin/compare/1.7.6...1.7.7)
+[Compare changes](https://github.com/c0rejs/eslint-plugin/compare/1.7.6...1.7.7)
 
 ### 1.7.6 (2024-10-10)
 
