@@ -5,7 +5,7 @@ Custom `eslint` rules.
 ## Install
 
 ```sh
-npm install @softvisio/eslint-plugin
+npm install @c0rejs/eslint-plugin
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install @softvisio/eslint-plugin
 `eslint.config.js`:
 
 ```javascript
-import eslintSoftvisio from "@softvisio/eslint-plugin";
+import eslintSoftvisio from "@c0rejs/eslint-plugin";
 
 export default [
 
