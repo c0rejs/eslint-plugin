@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.7.37 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [06d0e1c](https://github.com/c0rejs/eslint-plugin/commit/06d0e1c); 👬 zdm)
+
+Compare with the previous release: [v1.7.36](https://github.com/c0rejs/eslint-plugin/compare/v1.7.36...v1.7.37)
+
 ### v1.7.36 (2025-12-11)
 
 **Bug fixes:**
